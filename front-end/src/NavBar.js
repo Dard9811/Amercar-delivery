@@ -17,6 +17,7 @@ class NavBar extends React.Component{
   constructor(props){
     super(props);
   }
+    //Se recomienda no dejar el constructor vacio
 
   render(){
     let isClicked = this.props.isClicked;
@@ -50,6 +51,7 @@ class NavBar extends React.Component{
           </div>
           <ul className="navbar-nav mr-5">
           </ul>
+           //Se recomienda utilizar tipos mas adecuados. 
         </nav>
       </div>
     )

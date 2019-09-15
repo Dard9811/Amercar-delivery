@@ -9,7 +9,9 @@ var router = express.Router();
 function connectUsuarios(callback){
   var MongoClient = require("mongodb").MongoClient;
   var url = "mongodb+srv://daniel:dard98031160243@amercar-p9oq8.mongodb.net/test?retryWrites=true&w=majority";
+  // Seria bueno incluir una variable de entorno para no poner las credenciales
   var client = new MongoClient(url,{useNewUrlParser:true});
+  //Seria bueno no utilizar var en general, usar let/const
 
   client.connect(function(err) {
 
