@@ -60,6 +60,7 @@ class SignIn extends React.Component{
         <div className="form-group row ml-1 mt-3">
           <div className="col-sm-10">
             <button type="submit" className="btn btn-primary">Sign in</button>
+      <!-- Se recomienda llamar al metodo del back de crear usuario. -->
           </div>
         </div>
       </form>
