@@ -14,7 +14,7 @@ const Entrar = () =>
       <div className="form-row col-md-6 mt-3">
         <label htmlFor="inputPassword" className="col-sm-2 col-form-label">Contraseña</label>
         <div className="col-sm-10">
-          <input type="password"className="form-control" id="inputPassword" placeholder="Contraseña"/>
+          <input type="password"className="form-control ml-3" id="inputPassword" placeholder="Contraseña"/>
         </div>
       </div>
     </div>
