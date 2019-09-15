@@ -1,6 +1,8 @@
 # Amercar-delivery
 This is a web page focused in the necesity of delivering some supermarket products to your home if you leave near to the supermarket, here you can order what you want and stablish the time you want to recive your products. We hope you give us a chance and enter to our page 
 
+visit our page at https://amercar-delivery.herokuapp.com/
+
 # Main Goal
 Our main purpose is to help small and medium businesses to have an easy-to-use and very accessible platform to offer delivery service of all their products. This will allow any client to see the catalog of products in the store and place an order so that the establishment then delivers them respectively to the user's address. This will save many costs in time and money to each person who wants to use our application.
 
