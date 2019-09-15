@@ -9,13 +9,13 @@ class Footer extends React.Component{
     return(
       <div className="row mt-5 mb-3">
         <div className="col text-center">
-          <span id="face">Facebook</span>
+          <a href="http://facebook.com">Facebook</a>
         </div>
         <div className="col text-center">
-          <span id="insta">Instagram</span>
+          <a href="http://instagram.com">Instagram</a>
         </div>
         <div className="col text-center">
-          <span id="twit">Twitter</span>
+          <a href="http://twitter.com">Twitter</a>
         </div>
       </div>
     );
