@@ -47,4 +47,4 @@ https://github.com/acbeltrans
 
 
 # License 
-The MIT license can be found in the following link: https://github.com/Dard9811/Amercar_delivery/blob/master/LICENSE
+The MIT license can be found in the following link: https://github.com/Dard9811/Amercar-delivery/blob/master/LICENSE
