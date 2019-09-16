@@ -4,7 +4,8 @@ var router = express.Router();
 /* const url = "mongodb://localhost:27017"; *//* "mongodb+srv://<username>:<password>@amercar-p9oq8.mongodb.net/test?retryWrites=true&w=majority"; */
 /* const client = new MongoClient(url); */
 
-
+/*Maria-Ocampo: El backend deberia estar modlarizado, es decir, no tener todos los metodos del api en un mismo archivo js.
+Se debería tener 2 archivos, uno para producto y uno para usuario.*/
 
 function connectUsuarios(callback){
   var MongoClient = require("mongodb").MongoClient;
